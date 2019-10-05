@@ -1,0 +1,9 @@
+body {
+background-image: url("/Users/dominiquemclean/git/homework/TriviaGame/assets/images/harryPotter.jpeg");
+text-align: center
+
+}
+
+.startBtn {
+    margin-top: 100px
+}
