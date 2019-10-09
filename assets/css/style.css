@@ -1,6 +1,6 @@
 body {
-background-image: url("/Users/dominiquemclean/git/homework/TriviaGame/assets/images/harryPotter.jpeg");
-text-align: center
+    background-image:  url("./homework/TriviaGame/assets/images/harryPotter.jpeg");
+    text-align: center;
 
 }
 
